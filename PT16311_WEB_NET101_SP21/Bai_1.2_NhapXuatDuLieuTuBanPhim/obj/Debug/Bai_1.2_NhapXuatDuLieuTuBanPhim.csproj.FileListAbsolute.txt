@@ -1,0 +1,7 @@
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_1.2_NhapXuatDuLieuTuBanPhim\bin\Debug\Bai_1.2_NhapXuatDuLieuTuBanPhim.exe.config
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_1.2_NhapXuatDuLieuTuBanPhim\bin\Debug\Bai_1.2_NhapXuatDuLieuTuBanPhim.exe
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_1.2_NhapXuatDuLieuTuBanPhim\bin\Debug\Bai_1.2_NhapXuatDuLieuTuBanPhim.pdb
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_1.2_NhapXuatDuLieuTuBanPhim\obj\Debug\Bai_1.2_NhapXuatDuLieuTuBanPhim.csprojAssemblyReference.cache
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_1.2_NhapXuatDuLieuTuBanPhim\obj\Debug\Bai_1.2_NhapXuatDuLieuTuBanPhim.csproj.CoreCompileInputs.cache
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_1.2_NhapXuatDuLieuTuBanPhim\obj\Debug\Bai_1.2_NhapXuatDuLieuTuBanPhim.exe
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_1.2_NhapXuatDuLieuTuBanPhim\obj\Debug\Bai_1.2_NhapXuatDuLieuTuBanPhim.pdb

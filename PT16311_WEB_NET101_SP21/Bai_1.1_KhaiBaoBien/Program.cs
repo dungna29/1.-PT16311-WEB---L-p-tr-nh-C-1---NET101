@@ -47,6 +47,8 @@ namespace Bai_1._1_KhaiBaoBien
 
             var school = "ĐH FPT";
             var year = 2021;
+            Console.WriteLine(year);
+            Console.ReadKey();
            
         }
     }
