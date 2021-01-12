@@ -42,6 +42,7 @@ namespace Bai_1._1_KhaiBaoBien
          */
         static void Main(string[] args)
         {
+            Console.OutputEncoding = Encoding.GetEncoding("UTF-8");
             int a;//Khởi tạo 1 biến có tên là a có kiểu dữ liệu là số nguyên và không khởi tạo giá trị ban đầu.
             string name = "FPT POLYTECHNIC";//Khởi tạo 1 biến có tên name và có kiểu dữ liệu là chuỗi và có khởi tạo giá trị ban đầu.
 

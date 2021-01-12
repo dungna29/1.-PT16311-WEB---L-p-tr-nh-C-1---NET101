@@ -21,7 +21,7 @@ namespace Bai_1._5_CauDieuKien_IF
          */
         static void Main(string[] args)
         {
-            Console.OutputEncoding = Encoding.UTF8;
+            Console.OutputEncoding = Encoding.GetEncoding("UTF-8");
             /*
              * Viết 1 chương trình cho phép nhập điểm môn C# sau đó in điểm đó ra màn hình và thông báo qua môn nếu điểm lớn hơn hoặc bằng 5.
              */

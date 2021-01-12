@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -37,7 +38,7 @@ namespace Bai_1._4_ToanTuTrongLapTrinh
          */
         static void Main(string[] args)
         {
-
+            Console.OutputEncoding = Encoding.GetEncoding("UTF-8");
         }
     }
 }

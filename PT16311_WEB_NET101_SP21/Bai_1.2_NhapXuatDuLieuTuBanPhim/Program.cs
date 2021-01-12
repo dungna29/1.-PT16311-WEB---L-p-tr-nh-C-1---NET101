@@ -22,7 +22,7 @@ namespace Bai_1._2_NhapXuatDuLieuTuBanPhim
         static void Main(string[] args)
         {
             //Giúp hiển thị tiếng việt trên console
-            Console.OutputEncoding = Encoding.UTF8;
+            Console.OutputEncoding = Encoding.GetEncoding("UTF-8");
             /*
              * Ví dụ : Nhập tên và in ra màn hình
              */

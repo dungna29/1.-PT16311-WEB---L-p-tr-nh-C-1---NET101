@@ -19,7 +19,7 @@ namespace Bai_1._3_EpKieuTrongLapTrinh
          */      
         static void Main(string[] args)
         {
-            Console.OutputEncoding = Encoding.UTF8;
+            Console.OutputEncoding = Encoding.GetEncoding("UTF-8");
             //P1: Ép kiểu từ kiểu dữ liệu số
             // Ví dụ 1:
             byte a = 1;

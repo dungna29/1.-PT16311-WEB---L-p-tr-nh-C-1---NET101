@@ -24,8 +24,9 @@ namespace Bai_1._0_LamQuenVoiCSharp
 
         static void Main(string[] args)
         {
+            Console.OutputEncoding = Encoding.GetEncoding("UTF-8");
             //Code làm việc ở đây
-            
+
             //In ra màn hình
             Console.WriteLine(" Hello World C#1 FPT POLY");
             Console.WriteLine(" Hello World C#1 FPT POLY");
