@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("B")]
+[assembly: AssemblyTitle("Bai_1.6_CauDieuKien_IF_ELSE")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("B")]
+[assembly: AssemblyProduct("Bai_1.6_CauDieuKien_IF_ELSE")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("15a0f4b8-2b47-43ff-b7c1-e76a505112f4")]
+[assembly: Guid("08c0257c-6c7b-41e1-afc7-9ba0f92be0d9")]
 
 // Version information for an assembly consists of the following four values:
 //

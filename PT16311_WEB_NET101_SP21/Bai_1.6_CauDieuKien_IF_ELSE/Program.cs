@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace B
+namespace Bai_1._6_CauDieuKien_IF_ELSE
 {
     class Program
     {
@@ -47,4 +47,5 @@ namespace B
             }
         }
     }
+
 }
