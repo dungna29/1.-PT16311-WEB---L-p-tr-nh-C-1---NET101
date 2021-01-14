@@ -1,0 +1,6 @@
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_1.4_ToanTuTrongLapTrinh\bin\Debug\Bai_1.4_ToanTuTrongLapTrinh.exe.config
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_1.4_ToanTuTrongLapTrinh\bin\Debug\Bai_1.4_ToanTuTrongLapTrinh.exe
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_1.4_ToanTuTrongLapTrinh\bin\Debug\Bai_1.4_ToanTuTrongLapTrinh.pdb
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_1.4_ToanTuTrongLapTrinh\obj\Debug\Bai_1.4_ToanTuTrongLapTrinh.csproj.CoreCompileInputs.cache
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_1.4_ToanTuTrongLapTrinh\obj\Debug\Bai_1.4_ToanTuTrongLapTrinh.exe
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_1.4_ToanTuTrongLapTrinh\obj\Debug\Bai_1.4_ToanTuTrongLapTrinh.pdb
