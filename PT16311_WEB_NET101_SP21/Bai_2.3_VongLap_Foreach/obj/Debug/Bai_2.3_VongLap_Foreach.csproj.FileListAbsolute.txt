@@ -1,0 +1,7 @@
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_2.3_VongLap_Foreach\bin\Debug\Bai_2.3_VongLap_Foreach.exe.config
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_2.3_VongLap_Foreach\bin\Debug\Bai_2.3_VongLap_Foreach.exe
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_2.3_VongLap_Foreach\bin\Debug\Bai_2.3_VongLap_Foreach.pdb
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_2.3_VongLap_Foreach\obj\Debug\Bai_2.3_VongLap_Foreach.csprojAssemblyReference.cache
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_2.3_VongLap_Foreach\obj\Debug\Bai_2.3_VongLap_Foreach.csproj.CoreCompileInputs.cache
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_2.3_VongLap_Foreach\obj\Debug\Bai_2.3_VongLap_Foreach.exe
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_2.3_VongLap_Foreach\obj\Debug\Bai_2.3_VongLap_Foreach.pdb
