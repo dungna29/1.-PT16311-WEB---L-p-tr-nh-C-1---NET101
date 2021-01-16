@@ -10,12 +10,14 @@ namespace BAI_2._5_BaiTap_OnTap
     {
         /*
          * Bài tập ôn tập tổng hợp:
-         * Viết 1 chương trình có menu sử dụng switch case:
+         * Viết 1 chương trình có menu sử dụng switch case và vòng lặp:
          *         ------Chương trình 1-------
          *       1. In bảng cửu chương đơn
          *       2. In bảng cửu theo khoảng
          *       3. Kiểm tra học lực Sinh Viên Poly
          *       4. Nhập thông tin người yêu
+         *       5. Thoát.
+         *
          * Giải thích:
          *1. In bảng cửu chương đơn: Mời người dùng nhập vào tên 1 bảng cửu chương mà họ muốn sau đó in ra màn hình.
          *
@@ -28,6 +30,14 @@ namespace BAI_2._5_BaiTap_OnTap
          *  diem<=9 --> Giỏi
          *  diem<=10 --> Xuất sắc
          *
+         *  4. Nhập thông tin người yêu: Nhập các thông tin sau của người yêu và bản thân mình gồm các thông tin sau: Tên, Năm Sinh, Giới tính, Chiều cao
+         * - Yêu cầu cả bạn và người yêu đều phải nhập tất cả các thông tin trên sau đó in ra dự trên các thông tin đã nhập vào như sau:
+         * - Tên người yêu:
+         * - Năm sinh:
+         * - Tuổi người yêu:       <In thêm Kém tuổi hoặc Lớn tuổi>        
+         * - Giới tính:             <In thêm Khác giới  hoặc Cùng Giới>
+         * - Chiều cao:             <In thêm Cao hơn hoặc Thấp hơn>
+         *  Các câu in ra đều phụ thuộc vào việc so sánh giữa các thông số của em và người yêu đã được nhập từ đầu.
          */
         static void Main(string[] args)
         {
