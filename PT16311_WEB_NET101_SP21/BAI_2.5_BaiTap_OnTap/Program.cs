@@ -41,7 +41,36 @@ namespace BAI_2._5_BaiTap_OnTap
          */
         static void Main(string[] args)
         {
-            
+            Console.OutputEncoding = Encoding.GetEncoding("UTF-8");
+            /*
+             * In bảng cửu chương đơn 
+             */
+          
+            Console.WriteLine("Bạn muốn in bảng nhân mấy: ");
+            int input = int.Parse(Console.ReadLine());
+            Console.WriteLine("Bảng cửu chương nhân {0}", input);
+            //Vòng lặp for
+            // for (int i = 1; i < 10; i++)
+            // {
+            //     Console.WriteLine("{0} x {1} = {2}", input, i, input * i);
+            // }
+
+            //While
+            int temp = 1;
+            // while (temp< 10)
+            // {
+            //     Console.WriteLine("{0} x {1} = {2}", input, temp, input * temp);
+            //     temp++;
+            // }
+
+            //Do While
+            do
+            {
+                Console.WriteLine("{0} x {1} = {2}", input, temp, input * temp);
+                temp++;
+            } while (temp < 10);
+
+            Console.ReadKey();
         }
     }
 }
