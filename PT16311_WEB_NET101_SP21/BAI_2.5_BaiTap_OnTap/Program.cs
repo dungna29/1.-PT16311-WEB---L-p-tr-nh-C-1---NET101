@@ -71,6 +71,8 @@ namespace BAI_2._5_BaiTap_OnTap
             } while (temp < 10);
 
             Console.ReadKey();
+
+          
         }
     }
 }
