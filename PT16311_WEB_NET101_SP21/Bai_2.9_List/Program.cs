@@ -41,6 +41,7 @@ namespace Bai_2._9_List
                */
         static void Main(string[] args)
         {
+            
             Console.OutputEncoding = Encoding.GetEncoding("UTF-8");
             //1. Khai báo
             List<int> lstNumber = new List<int>();
@@ -69,12 +70,14 @@ namespace Bai_2._9_List
             int input;
             Console.WriteLine("Mời bạn nhập số lượng mã SV: ");
             input = Convert.ToInt32(Console.ReadLine());
+            //Gán giá trị cho từng vị trí trong List
             for (int i = 0; i < input; i++)
             {
                 Console.WriteLine("Nhập mã thứ: " + i);
                 lstMaSV.Add(Console.ReadLine());
             }
 
+            //In ra màn hình
             foreach (var x in lstMaSV)
             {
                 Console.Write(x + " | ");

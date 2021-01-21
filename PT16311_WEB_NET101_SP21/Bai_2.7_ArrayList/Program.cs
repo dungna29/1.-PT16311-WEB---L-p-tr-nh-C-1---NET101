@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Net.Http.Headers;
+using System.Text;
 
 namespace Bai_2._7_ArrayList
 {
@@ -34,37 +35,37 @@ namespace Bai_2._7_ArrayList
            
         static void Main(string[] args)
         {
-            //1. Khai báo 
+            Console.OutputEncoding = Encoding.GetEncoding("UTF-8");
+            //1. Khai báo
             ArrayList arrLstTemp = new ArrayList();
             ArrayList arrLstTemp1;
             arrLstTemp1 = new ArrayList();
 
-            //2. Thêm phần tử ArrayList
+            //2. Thêm phần tử
             // Sử dụng phương thức Add(value)
-            arrLstTemp.Add(1);//Thêm kiểu số nguyên
-            arrLstTemp.Add("FPT");//Thêm kiểu String
+            arrLstTemp.Add(1);
+            arrLstTemp.Add("FPT");
             arrLstTemp.Add(true);
-            arrLstTemp.Add(8.9);
+            arrLstTemp.Add(8.6);
 
             arrLstTemp1.Add("FPT");
             arrLstTemp1.Add("BK");
             arrLstTemp1.Add("KTQD");
             arrLstTemp1.Add("POLY");
+
             //3. Lấy giá trị <tên mảng>[index]
-            Console.WriteLine(arrLstTemp[0]);
             Console.WriteLine(arrLstTemp[1]);
 
-            //Sử dụng vòng lặp để in nhiều phần tử
-            //arrLstTemp.Count = Số lượng phần tử trong mảng
+            //Sử dụng for để in nhiều phần tử
             for (int i = 0; i < arrLstTemp.Count; i++)
             {
                 Console.WriteLine(arrLstTemp[i]);
             }
 
-          
-            arrLstTemp.Clear();//Danh sách temp sẽ bị xóa trắng
-            Console.WriteLine(arrLstTemp.Count);
-
+            //Xóa giá trị trong danh sách
+            Console.WriteLine("Số phần tử trong danh sách trước khi clear : " + arrLstTemp.Count);
+            arrLstTemp.Clear();
+            Console.WriteLine("Số phần tử trong danh sách sau khi clear: " + arrLstTemp.Count);
             Console.ReadKey();
         }
     }
