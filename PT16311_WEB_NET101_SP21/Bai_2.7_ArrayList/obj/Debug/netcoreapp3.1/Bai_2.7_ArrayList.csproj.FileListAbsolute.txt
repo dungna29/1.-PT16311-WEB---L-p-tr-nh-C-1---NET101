@@ -1,0 +1,13 @@
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_2.7_ArrayList\bin\Debug\netcoreapp3.1\Bai_2.7_ArrayList.exe
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_2.7_ArrayList\bin\Debug\netcoreapp3.1\Bai_2.7_ArrayList.deps.json
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_2.7_ArrayList\bin\Debug\netcoreapp3.1\Bai_2.7_ArrayList.runtimeconfig.json
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_2.7_ArrayList\bin\Debug\netcoreapp3.1\Bai_2.7_ArrayList.runtimeconfig.dev.json
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_2.7_ArrayList\bin\Debug\netcoreapp3.1\Bai_2.7_ArrayList.dll
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_2.7_ArrayList\bin\Debug\netcoreapp3.1\Bai_2.7_ArrayList.pdb
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_2.7_ArrayList\obj\Debug\netcoreapp3.1\Bai_2.7_ArrayList.csprojAssemblyReference.cache
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_2.7_ArrayList\obj\Debug\netcoreapp3.1\Bai_2.7_ArrayList.AssemblyInfoInputs.cache
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_2.7_ArrayList\obj\Debug\netcoreapp3.1\Bai_2.7_ArrayList.AssemblyInfo.cs
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_2.7_ArrayList\obj\Debug\netcoreapp3.1\Bai_2.7_ArrayList.csproj.CoreCompileInputs.cache
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_2.7_ArrayList\obj\Debug\netcoreapp3.1\Bai_2.7_ArrayList.dll
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_2.7_ArrayList\obj\Debug\netcoreapp3.1\Bai_2.7_ArrayList.pdb
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_2.7_ArrayList\obj\Debug\netcoreapp3.1\Bai_2.7_ArrayList.genruntimeconfig.cache
