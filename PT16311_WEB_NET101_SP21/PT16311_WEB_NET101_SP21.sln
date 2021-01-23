@@ -39,11 +39,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAI_MAU_BIEN_TOANTU_VONGLAP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_2.6_ThaoTacVoiMang", "Bai_2.6_ThaoTacVoiMang\Bai_2.6_ThaoTacVoiMang.csproj", "{DB68EEB3-69AF-4BB0-BC97-C008627F4545}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_2.7_ArrayList", "Bai_2.7_ArrayList\Bai_2.7_ArrayList.csproj", "{048A8DB1-3D94-4AF3-AF87-5A7B87DC776E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bai_2.7_ArrayList", "Bai_2.7_ArrayList\Bai_2.7_ArrayList.csproj", "{048A8DB1-3D94-4AF3-AF87-5A7B87DC776E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_2.8_MangHaiChieu", "Bai_2.8_MangHaiChieu\Bai_2.8_MangHaiChieu.csproj", "{DC3BC26E-3234-4738-89B0-24B1BB2A70E6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_2.9_List", "Bai_2.9_List\Bai_2.9_List.csproj", "{EAAAFC01-30C0-4667-AE82-1103B7D962A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_3.0_OOP_LapTrinhHuongDoiTuong", "Bai_3.0_OOP_LapTrinhHuongDoiTuong\Bai_3.0_OOP_LapTrinhHuongDoiTuong.csproj", "{7A85244A-B3E7-404C-B216-6EEDFA5F0E66}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{EAAAFC01-30C0-4667-AE82-1103B7D962A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAAAFC01-30C0-4667-AE82-1103B7D962A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAAAFC01-30C0-4667-AE82-1103B7D962A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A85244A-B3E7-404C-B216-6EEDFA5F0E66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A85244A-B3E7-404C-B216-6EEDFA5F0E66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A85244A-B3E7-404C-B216-6EEDFA5F0E66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A85244A-B3E7-404C-B216-6EEDFA5F0E66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
