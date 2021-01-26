@@ -1,0 +1,7 @@
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_3.1_Method_PhuongThuc\bin\Debug\Bai_3.1_Method_PhuongThuc.exe.config
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_3.1_Method_PhuongThuc\bin\Debug\Bai_3.1_Method_PhuongThuc.exe
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_3.1_Method_PhuongThuc\bin\Debug\Bai_3.1_Method_PhuongThuc.pdb
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_3.1_Method_PhuongThuc\obj\Debug\Bai_3.1_Method_PhuongThuc.csprojAssemblyReference.cache
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_3.1_Method_PhuongThuc\obj\Debug\Bai_3.1_Method_PhuongThuc.csproj.CoreCompileInputs.cache
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_3.1_Method_PhuongThuc\obj\Debug\Bai_3.1_Method_PhuongThuc.exe
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_3.1_Method_PhuongThuc\obj\Debug\Bai_3.1_Method_PhuongThuc.pdb
