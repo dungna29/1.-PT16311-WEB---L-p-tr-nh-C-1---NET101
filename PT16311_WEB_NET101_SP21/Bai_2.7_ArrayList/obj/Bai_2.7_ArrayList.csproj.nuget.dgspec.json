@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OneDrive - FPT EDUCATION\\8. Demo\\Demo C#1\\SP21\\PT16311-WEB-NET101-SP21\\PT16311_WEB_NET101_SP21\\Bai_2.7_ArrayList\\Bai_2.7_ArrayList.csproj": {}
+    "F:\\Google Driver Dungna29FPT\\8. Demo\\Demo C#1\\SP21\\PT16311-WEB-NET101-SP21\\PT16311_WEB_NET101_SP21\\Bai_2.7_ArrayList\\Bai_2.7_ArrayList.csproj": {}
   },
   "projects": {
-    "D:\\OneDrive - FPT EDUCATION\\8. Demo\\Demo C#1\\SP21\\PT16311-WEB-NET101-SP21\\PT16311_WEB_NET101_SP21\\Bai_2.7_ArrayList\\Bai_2.7_ArrayList.csproj": {
+    "F:\\Google Driver Dungna29FPT\\8. Demo\\Demo C#1\\SP21\\PT16311-WEB-NET101-SP21\\PT16311_WEB_NET101_SP21\\Bai_2.7_ArrayList\\Bai_2.7_ArrayList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OneDrive - FPT EDUCATION\\8. Demo\\Demo C#1\\SP21\\PT16311-WEB-NET101-SP21\\PT16311_WEB_NET101_SP21\\Bai_2.7_ArrayList\\Bai_2.7_ArrayList.csproj",
+        "projectUniqueName": "F:\\Google Driver Dungna29FPT\\8. Demo\\Demo C#1\\SP21\\PT16311-WEB-NET101-SP21\\PT16311_WEB_NET101_SP21\\Bai_2.7_ArrayList\\Bai_2.7_ArrayList.csproj",
         "projectName": "Bai_2.7_ArrayList",
-        "projectPath": "D:\\OneDrive - FPT EDUCATION\\8. Demo\\Demo C#1\\SP21\\PT16311-WEB-NET101-SP21\\PT16311_WEB_NET101_SP21\\Bai_2.7_ArrayList\\Bai_2.7_ArrayList.csproj",
-        "packagesPath": "C:\\Users\\Dungna29\\.nuget\\packages\\",
-        "outputPath": "D:\\OneDrive - FPT EDUCATION\\8. Demo\\Demo C#1\\SP21\\PT16311-WEB-NET101-SP21\\PT16311_WEB_NET101_SP21\\Bai_2.7_ArrayList\\obj\\",
+        "projectPath": "F:\\Google Driver Dungna29FPT\\8. Demo\\Demo C#1\\SP21\\PT16311-WEB-NET101-SP21\\PT16311_WEB_NET101_SP21\\Bai_2.7_ArrayList\\Bai_2.7_ArrayList.csproj",
+        "packagesPath": "C:\\Users\\DungNAPC\\.nuget\\packages\\",
+        "outputPath": "F:\\Google Driver Dungna29FPT\\8. Demo\\Demo C#1\\SP21\\PT16311-WEB-NET101-SP21\\PT16311_WEB_NET101_SP21\\Bai_2.7_ArrayList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dungna29\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DungNAPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

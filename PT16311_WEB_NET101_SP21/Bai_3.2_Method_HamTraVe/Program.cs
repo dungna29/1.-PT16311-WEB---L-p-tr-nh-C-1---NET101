@@ -79,7 +79,7 @@ namespace Bai_3._2_Method_HamTraVe
         }
 
         //int year = tham số có kiểu dữ liệu và đặt tên tham số
-        static int  inRaManHinhCoThamSo(int year, string name)
+        static int inRaManHinhCoThamSo(int year, string name)
         {
             //Coi tham số như là biến có thể thao tác được với nó
             return 0;
@@ -87,7 +87,8 @@ namespace Bai_3._2_Method_HamTraVe
         static List<string> inRaManHinhCoThamSo(int[] year, string[] name, List<string> lstname, SinhVien sinhvien)
         {
             //Coi tham số như là biến có thể thao tác được với nó
+            return null;
 
-        }
+        } 
     }
 }
