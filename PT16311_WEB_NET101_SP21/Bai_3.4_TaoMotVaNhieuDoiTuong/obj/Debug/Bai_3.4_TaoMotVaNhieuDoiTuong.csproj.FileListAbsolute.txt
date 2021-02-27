@@ -1,0 +1,7 @@
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_3.4_TaoMotVaNhieuDoiTuong\bin\Debug\Bai_3.4_TaoMotVaNhieuDoiTuong.exe.config
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_3.4_TaoMotVaNhieuDoiTuong\bin\Debug\Bai_3.4_TaoMotVaNhieuDoiTuong.exe
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_3.4_TaoMotVaNhieuDoiTuong\bin\Debug\Bai_3.4_TaoMotVaNhieuDoiTuong.pdb
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_3.4_TaoMotVaNhieuDoiTuong\obj\Debug\Bai_3.4_TaoMotVaNhieuDoiTuong.csprojAssemblyReference.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_3.4_TaoMotVaNhieuDoiTuong\obj\Debug\Bai_3.4_TaoMotVaNhieuDoiTuong.csproj.CoreCompileInputs.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_3.4_TaoMotVaNhieuDoiTuong\obj\Debug\Bai_3.4_TaoMotVaNhieuDoiTuong.exe
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_3.4_TaoMotVaNhieuDoiTuong\obj\Debug\Bai_3.4_TaoMotVaNhieuDoiTuong.pdb

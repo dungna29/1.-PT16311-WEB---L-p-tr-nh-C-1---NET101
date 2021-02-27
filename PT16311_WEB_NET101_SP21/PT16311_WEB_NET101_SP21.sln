@@ -53,7 +53,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_3.2_Method_HamTraVe", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAIMAU_PHUONGTHUC", "BAIMAU_PHUONGTHUC\BAIMAU_PHUONGTHUC.csproj", "{7C66F926-5ADD-4598-894B-2D5ACC8FAD9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_3.3_Contructor", "Bai_3.3_Contructor\Bai_3.3_Contructor.csproj", "{F382CD81-6EF7-4346-952F-A2DEFED2AA3F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_3.3_Contructor_AccessModifier", "Bai_3.3_Contructor\Bai_3.3_Contructor_AccessModifier.csproj", "{F382CD81-6EF7-4346-952F-A2DEFED2AA3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_3.4_TaoMotVaNhieuDoiTuong", "Bai_3.4_TaoMotVaNhieuDoiTuong\Bai_3.4_TaoMotVaNhieuDoiTuong.csproj", "{B6FD860E-1763-4552-B83A-F27142474804}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAI_3.5_KeThua", "BAI_3.5_KeThua\BAI_3.5_KeThua.csproj", "{239466E6-6D79-4EAB-8EC8-C4D013258C51}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +169,14 @@ Global
 		{F382CD81-6EF7-4346-952F-A2DEFED2AA3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F382CD81-6EF7-4346-952F-A2DEFED2AA3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F382CD81-6EF7-4346-952F-A2DEFED2AA3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6FD860E-1763-4552-B83A-F27142474804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6FD860E-1763-4552-B83A-F27142474804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6FD860E-1763-4552-B83A-F27142474804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6FD860E-1763-4552-B83A-F27142474804}.Release|Any CPU.Build.0 = Release|Any CPU
+		{239466E6-6D79-4EAB-8EC8-C4D013258C51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{239466E6-6D79-4EAB-8EC8-C4D013258C51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{239466E6-6D79-4EAB-8EC8-C4D013258C51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{239466E6-6D79-4EAB-8EC8-C4D013258C51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

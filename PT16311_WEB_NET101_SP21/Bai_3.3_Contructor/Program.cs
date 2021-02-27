@@ -60,6 +60,7 @@ namespace Bai_3._3_Contructor
              * Bài tập:
              * Viết 1 chương trình cho người dùng nhập vào 1 đối tượng Sinh Viên gồm các thuộc tính : Ten,Tuoi,Msv,Sdt sau đó in ra .
              * - Tạo 1 Class đối tượng hoàn chỉnh gồm 4 phần có private thuộc tính
+
              */
 
         }
