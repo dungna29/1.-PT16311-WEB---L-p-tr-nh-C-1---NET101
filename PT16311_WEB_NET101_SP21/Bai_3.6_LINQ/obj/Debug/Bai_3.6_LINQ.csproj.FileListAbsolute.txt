@@ -1,0 +1,7 @@
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_3.6_LINQ\bin\Debug\Bai_3.6_LINQ.exe.config
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_3.6_LINQ\bin\Debug\Bai_3.6_LINQ.exe
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_3.6_LINQ\bin\Debug\Bai_3.6_LINQ.pdb
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_3.6_LINQ\obj\Debug\Bai_3.6_LINQ.csprojAssemblyReference.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_3.6_LINQ\obj\Debug\Bai_3.6_LINQ.csproj.CoreCompileInputs.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_3.6_LINQ\obj\Debug\Bai_3.6_LINQ.exe
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\Bai_3.6_LINQ\obj\Debug\Bai_3.6_LINQ.pdb

@@ -1,0 +1,7 @@
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\BAI_3.5_KeThua\bin\Debug\BAI_3.5_KeThua.exe.config
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\BAI_3.5_KeThua\bin\Debug\BAI_3.5_KeThua.exe
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\BAI_3.5_KeThua\bin\Debug\BAI_3.5_KeThua.pdb
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\BAI_3.5_KeThua\obj\Debug\BAI_3.5_KeThua.csprojAssemblyReference.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\BAI_3.5_KeThua\obj\Debug\BAI_3.5_KeThua.csproj.CoreCompileInputs.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\BAI_3.5_KeThua\obj\Debug\BAI_3.5_KeThua.exe
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#1\SP21\PT16311-WEB-NET101-SP21\PT16311_WEB_NET101_SP21\BAI_3.5_KeThua\obj\Debug\BAI_3.5_KeThua.pdb

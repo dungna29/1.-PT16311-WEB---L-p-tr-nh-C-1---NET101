@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_3.4_TaoMotVaNhieuDoiTuo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAI_3.5_KeThua", "BAI_3.5_KeThua\BAI_3.5_KeThua.csproj", "{239466E6-6D79-4EAB-8EC8-C4D013258C51}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_3.6_LINQ", "Bai_3.6_LINQ\Bai_3.6_LINQ.csproj", "{242A5962-03CD-44CC-92D0-5F4E9C33729D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -177,6 +179,10 @@ Global
 		{239466E6-6D79-4EAB-8EC8-C4D013258C51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{239466E6-6D79-4EAB-8EC8-C4D013258C51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{239466E6-6D79-4EAB-8EC8-C4D013258C51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{242A5962-03CD-44CC-92D0-5F4E9C33729D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{242A5962-03CD-44CC-92D0-5F4E9C33729D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{242A5962-03CD-44CC-92D0-5F4E9C33729D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{242A5962-03CD-44CC-92D0-5F4E9C33729D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

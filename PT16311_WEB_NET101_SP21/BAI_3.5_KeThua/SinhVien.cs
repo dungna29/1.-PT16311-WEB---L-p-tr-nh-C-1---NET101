@@ -41,5 +41,13 @@ namespace BAI_3._5_KeThua
             //Gọi các thuộc tính lớp  cha
             
         }
+
+        public override void inRaManHinhPeron()
+        {
+            //base.inRaManHinhPeron();
+            Console.WriteLine("Đây là phương thức của sinh viên");
+        }
+
+      
     }
 }

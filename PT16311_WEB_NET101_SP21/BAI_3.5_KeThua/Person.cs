@@ -42,9 +42,13 @@ namespace BAI_3._5_KeThua
             set => ten = value;
         }
 
-        public void inRaManHinhPeron()
+        public virtual void inRaManHinhPeron()
         {
-
+            Console.WriteLine("Đây là phương thức của lớp cha");
+        }
+        public void inRaManHinhPeron1()
+        {
+            Console.WriteLine("Đây là phương thức của lớp cha");
         }
     }
 }

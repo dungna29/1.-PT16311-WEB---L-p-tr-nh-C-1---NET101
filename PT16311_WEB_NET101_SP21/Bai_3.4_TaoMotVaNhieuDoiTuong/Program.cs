@@ -94,7 +94,7 @@ namespace Bai_3._4_TaoMotVaNhieuDoiTuong
 
             Console.WriteLine("Bạn muốn thêm bao nhiêu GV: ");
             size = Convert.ToInt32(Console.ReadLine());
-            for (int i = 0; i < size; i++)
+            for (int i = 0; i < lstGiaoVien.Count; i++)
             {
                 gv1 = new GiaoVien();
                 Console.WriteLine("Mời bạn nhập tên: ");

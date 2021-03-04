@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Remoting.Messaging;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -22,13 +23,13 @@ namespace BAI_3._5_KeThua
              * Tạo 4 đối tượng
              * SinhVien1(Ho,TenDem,Ten,MaSv,DiemCsharp)
              * GiaoVien1(Ho,TenDem,Ten,MaGv,GioDay)
-             * KeToan(Ho,TenDem,Ten,MaKT,ChamCong)
-             * BaoVe(Ho,TenDem,Ten,MaBv,CaTruc)
+             * KeToan1(Ho,TenDem,Ten,MaKT,ChamCong)
+             * BaoVe1(Ho,TenDem,Ten,MaBv,CaTruc)
              *
              * Dựa vào các class trên sẽ thấy bị trùng lặp các thuộc tính chung.
              */
 
-            //Phần 1. Sử dụng đối tượng không có kế thừa
+            // P1: Gán giá trị cho đối tượng không áp dụng kế thừa
             SinhVien1 sv1 = new SinhVien1();
             sv1.Ho1 = "Nguyễn";
             sv1.Tendem = "Anh";
@@ -44,8 +45,17 @@ namespace BAI_3._5_KeThua
             sv2.MaSv = "dungna";
             sv2.DiemCsharp = 4;
 
-            //Phần 3: Nạp chồng phương thức
-            //Phần 4: Ghi đè phương thức
+            //Phần 3: Nạp chồng phương thức (Overloading) - Các phương thức có tên giống nhau nhưng phải khác tham số
+            phuongThuc1();
+            phuongThuc1(1);
+            phuongThuc1(1, 2);
+
+            //Phần 4: Ghi đè phương thức là khi 1 lớp kế thừa phương thức của lớp cha thì có thể viết lại code trong phương thức đó theo nhiệm vụ khác nhau.
+            Person p1 = new Person();
+            p1.inRaManHinhPeron();
+            SinhVien sv3 = new SinhVien();
+            sv3.inRaManHinhPeron();
+
 
             /*
              * Viết 1 chương trình quản lý giao viên
@@ -54,8 +64,22 @@ namespace BAI_3._5_KeThua
              *
              *- 2 chức năng sau:
              *  1. Thêm 1 giáo viên
-             *  2. Thâm nhiều giáo viên
+             *  2. Thêm nhiều giáo viên
              */
+        }
+
+        //Dưới đây là ví dụ về nạp chồng phương thức
+        static void phuongThuc1()
+        {
+
+        }
+        static void phuongThuc1(int a)
+        {
+
+        }
+        static void phuongThuc1(int a, int b)
+        {
+
         }
     }
 }
